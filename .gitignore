@@ -1,0 +1,23 @@
+.vagrant
+*.o
+*.so
+
+# Linux kernel module artifacts
+*.ko
+.tmp_versions
+Module.symvers
+*.mod.c
+.*.cmd
+modules.order
+
+# GDB/PEDA artifacts
+.gdb_history
+peda-*
+
+#Ignore trashed files for sublime text
+.Trash-1000/
+
+__pycache__/
+i686/
+x86_64/
+*.pyc

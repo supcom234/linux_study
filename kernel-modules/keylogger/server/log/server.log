@@ -1,0 +1,407 @@
+INFO     [18:52:28 06-17-2018] Starting server...
+INFO     [18:52:33 06-17-2018] Serving request from  127.0.0.1:38702
+INFO     [18:52:33 06-17-2018] Received message with type HELLO from 127.0.0.1:38702
+INFO     [18:52:33 06-17-2018] Received message with type SEND from 127.0.0.1:38702
+INFO     [18:52:33 06-17-2018] Received message with type BYE from 127.0.0.1:38702
+WARNING  [18:52:33 06-17-2018] Connection with 127.0.0.1:38702 terminated
+INFO     [18:52:43 06-17-2018] Serving request from  127.0.0.1:38704
+INFO     [18:52:43 06-17-2018] Received message with type HELLO from 127.0.0.1:38704
+INFO     [18:52:43 06-17-2018] Received message with type SEND from 127.0.0.1:38704
+INFO     [18:52:43 06-17-2018] Received message with type BYE from 127.0.0.1:38704
+WARNING  [18:52:43 06-17-2018] Connection with 127.0.0.1:38704 terminated
+INFO     [18:52:43 06-17-2018] Serving request from  127.0.0.1:38706
+INFO     [18:52:43 06-17-2018] Received message with type HELLO from 127.0.0.1:38706
+INFO     [18:52:43 06-17-2018] Received message with type SEND from 127.0.0.1:38706
+INFO     [18:52:43 06-17-2018] Received message with type BYE from 127.0.0.1:38706
+WARNING  [18:52:43 06-17-2018] Connection with 127.0.0.1:38706 terminated
+INFO     [18:52:44 06-17-2018] Serving request from  127.0.0.1:38708
+INFO     [18:52:44 06-17-2018] Received message with type HELLO from 127.0.0.1:38708
+INFO     [18:52:44 06-17-2018] Received message with type SEND from 127.0.0.1:38708
+INFO     [18:52:44 06-17-2018] Received message with type BYE from 127.0.0.1:38708
+WARNING  [18:52:44 06-17-2018] Connection with 127.0.0.1:38708 terminated
+INFO     [18:52:44 06-17-2018] Serving request from  127.0.0.1:38710
+INFO     [18:52:44 06-17-2018] Received message with type HELLO from 127.0.0.1:38710
+INFO     [18:52:44 06-17-2018] Received message with type SEND from 127.0.0.1:38710
+INFO     [18:52:44 06-17-2018] Received message with type BYE from 127.0.0.1:38710
+WARNING  [18:52:44 06-17-2018] Connection with 127.0.0.1:38710 terminated
+INFO     [18:52:45 06-17-2018] Serving request from  127.0.0.1:38712
+INFO     [18:52:45 06-17-2018] Received message with type HELLO from 127.0.0.1:38712
+INFO     [18:52:45 06-17-2018] Received message with type SEND from 127.0.0.1:38712
+INFO     [18:52:45 06-17-2018] Received message with type BYE from 127.0.0.1:38712
+WARNING  [18:52:45 06-17-2018] Connection with 127.0.0.1:38712 terminated
+INFO     [18:52:45 06-17-2018] Serving request from  127.0.0.1:38716
+INFO     [18:52:45 06-17-2018] Received message with type HELLO from 127.0.0.1:38716
+INFO     [18:52:45 06-17-2018] Received message with type SEND from 127.0.0.1:38716
+INFO     [18:52:45 06-17-2018] Received message with type BYE from 127.0.0.1:38716
+WARNING  [18:52:45 06-17-2018] Connection with 127.0.0.1:38716 terminated
+INFO     [18:52:46 06-17-2018] Serving request from  127.0.0.1:38718
+INFO     [18:52:46 06-17-2018] Received message with type HELLO from 127.0.0.1:38718
+INFO     [18:52:46 06-17-2018] Received message with type SEND from 127.0.0.1:38718
+INFO     [18:52:46 06-17-2018] Received message with type BYE from 127.0.0.1:38718
+WARNING  [18:52:46 06-17-2018] Connection with 127.0.0.1:38718 terminated
+INFO     [18:52:48 06-17-2018] Serving request from  127.0.0.1:38720
+INFO     [18:52:48 06-17-2018] Received message with type HELLO from 127.0.0.1:38720
+INFO     [18:52:48 06-17-2018] Received message with type SEND from 127.0.0.1:38720
+INFO     [18:52:48 06-17-2018] Received message with type BYE from 127.0.0.1:38720
+WARNING  [18:52:48 06-17-2018] Connection with 127.0.0.1:38720 terminated
+INFO     [18:52:49 06-17-2018] Serving request from  127.0.0.1:38722
+INFO     [18:52:49 06-17-2018] Received message with type HELLO from 127.0.0.1:38722
+INFO     [18:52:49 06-17-2018] Received message with type SEND from 127.0.0.1:38722
+INFO     [18:52:49 06-17-2018] Received message with type BYE from 127.0.0.1:38722
+WARNING  [18:52:49 06-17-2018] Connection with 127.0.0.1:38722 terminated
+INFO     [18:52:52 06-17-2018] Serving request from  127.0.0.1:38724
+INFO     [18:52:52 06-17-2018] Received message with type HELLO from 127.0.0.1:38724
+INFO     [18:52:52 06-17-2018] Received message with type SEND from 127.0.0.1:38724
+INFO     [18:52:52 06-17-2018] Received message with type BYE from 127.0.0.1:38724
+WARNING  [18:52:52 06-17-2018] Connection with 127.0.0.1:38724 terminated
+INFO     [18:52:53 06-17-2018] Serving request from  127.0.0.1:38726
+INFO     [18:52:53 06-17-2018] Received message with type HELLO from 127.0.0.1:38726
+INFO     [18:52:53 06-17-2018] Received message with type SEND from 127.0.0.1:38726
+INFO     [18:52:54 06-17-2018] Received message with type BYE from 127.0.0.1:38726
+WARNING  [18:52:54 06-17-2018] Connection with 127.0.0.1:38726 terminated
+INFO     [18:53:00 06-17-2018] Serving request from  127.0.0.1:38728
+INFO     [18:53:00 06-17-2018] Received message with type HELLO from 127.0.0.1:38728
+INFO     [18:53:00 06-17-2018] Received message with type SEND from 127.0.0.1:38728
+INFO     [18:53:00 06-17-2018] Received message with type BYE from 127.0.0.1:38728
+WARNING  [18:53:00 06-17-2018] Connection with 127.0.0.1:38728 terminated
+INFO     [18:53:02 06-17-2018] Serving request from  127.0.0.1:38730
+INFO     [18:53:02 06-17-2018] Received message with type HELLO from 127.0.0.1:38730
+INFO     [18:53:02 06-17-2018] Received message with type SEND from 127.0.0.1:38730
+INFO     [18:53:02 06-17-2018] Received message with type BYE from 127.0.0.1:38730
+WARNING  [18:53:02 06-17-2018] Connection with 127.0.0.1:38730 terminated
+INFO     [18:53:17 06-17-2018] Serving request from  127.0.0.1:38732
+INFO     [18:53:17 06-17-2018] Received message with type HELLO from 127.0.0.1:38732
+INFO     [18:53:17 06-17-2018] Received message with type SEND from 127.0.0.1:38732
+INFO     [18:53:17 06-17-2018] Received message with type BYE from 127.0.0.1:38732
+WARNING  [18:53:17 06-17-2018] Connection with 127.0.0.1:38732 terminated
+INFO     [18:53:18 06-17-2018] Serving request from  127.0.0.1:38734
+INFO     [18:53:18 06-17-2018] Received message with type HELLO from 127.0.0.1:38734
+INFO     [18:53:18 06-17-2018] Received message with type SEND from 127.0.0.1:38734
+INFO     [18:53:18 06-17-2018] Received message with type BYE from 127.0.0.1:38734
+WARNING  [18:53:18 06-17-2018] Connection with 127.0.0.1:38734 terminated
+INFO     [18:53:40 06-17-2018] Serving request from  127.0.0.1:38736
+INFO     [18:53:40 06-17-2018] Received message with type HELLO from 127.0.0.1:38736
+INFO     [18:53:40 06-17-2018] Received message with type SEND from 127.0.0.1:38736
+INFO     [18:53:40 06-17-2018] Received message with type BYE from 127.0.0.1:38736
+WARNING  [18:53:40 06-17-2018] Connection with 127.0.0.1:38736 terminated
+INFO     [18:53:41 06-17-2018] Serving request from  127.0.0.1:38738
+INFO     [18:53:41 06-17-2018] Received message with type HELLO from 127.0.0.1:38738
+INFO     [18:53:41 06-17-2018] Received message with type SEND from 127.0.0.1:38738
+INFO     [18:53:41 06-17-2018] Received message with type BYE from 127.0.0.1:38738
+WARNING  [18:53:41 06-17-2018] Connection with 127.0.0.1:38738 terminated
+INFO     [18:57:25 06-17-2018] Serving request from  127.0.0.1:38744
+INFO     [18:57:25 06-17-2018] Received message with type HELLO from 127.0.0.1:38744
+INFO     [18:57:25 06-17-2018] Received message with type SEND from 127.0.0.1:38744
+INFO     [18:57:25 06-17-2018] Received message with type BYE from 127.0.0.1:38744
+WARNING  [18:57:25 06-17-2018] Connection with 127.0.0.1:38744 terminated
+INFO     [18:57:59 06-17-2018] Serving request from  127.0.0.1:38746
+INFO     [18:57:59 06-17-2018] Received message with type HELLO from 127.0.0.1:38746
+INFO     [18:57:59 06-17-2018] Received message with type SEND from 127.0.0.1:38746
+INFO     [18:57:59 06-17-2018] Received message with type BYE from 127.0.0.1:38746
+WARNING  [18:57:59 06-17-2018] Connection with 127.0.0.1:38746 terminated
+INFO     [18:58:02 06-17-2018] Serving request from  127.0.0.1:38748
+INFO     [18:58:02 06-17-2018] Received message with type HELLO from 127.0.0.1:38748
+INFO     [18:58:02 06-17-2018] Received message with type SEND from 127.0.0.1:38748
+INFO     [18:58:02 06-17-2018] Received message with type BYE from 127.0.0.1:38748
+WARNING  [18:58:02 06-17-2018] Connection with 127.0.0.1:38748 terminated
+INFO     [18:58:06 06-17-2018] Serving request from  127.0.0.1:38750
+INFO     [18:58:06 06-17-2018] Received message with type HELLO from 127.0.0.1:38750
+INFO     [18:58:06 06-17-2018] Received message with type SEND from 127.0.0.1:38750
+INFO     [18:58:06 06-17-2018] Received message with type BYE from 127.0.0.1:38750
+WARNING  [18:58:06 06-17-2018] Connection with 127.0.0.1:38750 terminated
+INFO     [18:59:19 06-17-2018] Serving request from  127.0.0.1:38752
+INFO     [18:59:19 06-17-2018] Received message with type HELLO from 127.0.0.1:38752
+INFO     [18:59:19 06-17-2018] Received message with type SEND from 127.0.0.1:38752
+INFO     [18:59:19 06-17-2018] Received message with type BYE from 127.0.0.1:38752
+WARNING  [18:59:19 06-17-2018] Connection with 127.0.0.1:38752 terminated
+INFO     [19:04:11 06-17-2018] Serving request from  127.0.0.1:38760
+INFO     [19:04:11 06-17-2018] Received message with type HELLO from 127.0.0.1:38760
+INFO     [19:04:11 06-17-2018] Received message with type SEND from 127.0.0.1:38760
+INFO     [19:04:11 06-17-2018] Received message with type BYE from 127.0.0.1:38760
+WARNING  [19:04:11 06-17-2018] Connection with 127.0.0.1:38760 terminated
+INFO     [19:07:00 06-17-2018] Serving request from  127.0.0.1:38764
+INFO     [19:07:00 06-17-2018] Received message with type HELLO from 127.0.0.1:38764
+INFO     [19:07:00 06-17-2018] Received message with type SEND from 127.0.0.1:38764
+INFO     [19:07:00 06-17-2018] Received message with type BYE from 127.0.0.1:38764
+WARNING  [19:07:00 06-17-2018] Connection with 127.0.0.1:38764 terminated
+INFO     [19:07:03 06-17-2018] Serving request from  127.0.0.1:38766
+INFO     [19:07:03 06-17-2018] Received message with type HELLO from 127.0.0.1:38766
+INFO     [19:07:03 06-17-2018] Received message with type SEND from 127.0.0.1:38766
+INFO     [19:07:03 06-17-2018] Received message with type BYE from 127.0.0.1:38766
+WARNING  [19:07:03 06-17-2018] Connection with 127.0.0.1:38766 terminated
+INFO     [19:11:14 06-17-2018] Serving request from  127.0.0.1:38772
+INFO     [19:11:14 06-17-2018] Received message with type HELLO from 127.0.0.1:38772
+INFO     [19:11:14 06-17-2018] Received message with type SEND from 127.0.0.1:38772
+INFO     [19:11:14 06-17-2018] Received message with type BYE from 127.0.0.1:38772
+WARNING  [19:11:14 06-17-2018] Connection with 127.0.0.1:38772 terminated
+INFO     [19:12:50 06-17-2018] Serving request from  127.0.0.1:38774
+INFO     [19:12:50 06-17-2018] Received message with type HELLO from 127.0.0.1:38774
+INFO     [19:12:50 06-17-2018] Received message with type SEND from 127.0.0.1:38774
+INFO     [19:12:50 06-17-2018] Received message with type BYE from 127.0.0.1:38774
+WARNING  [19:12:50 06-17-2018] Connection with 127.0.0.1:38774 terminated
+INFO     [19:15:11 06-17-2018] Serving request from  127.0.0.1:38778
+INFO     [19:15:11 06-17-2018] Received message with type HELLO from 127.0.0.1:38778
+INFO     [19:15:11 06-17-2018] Received message with type SEND from 127.0.0.1:38778
+INFO     [19:15:11 06-17-2018] Received message with type BYE from 127.0.0.1:38778
+WARNING  [19:15:11 06-17-2018] Connection with 127.0.0.1:38778 terminated
+INFO     [19:27:05 06-17-2018] Serving request from  127.0.0.1:38792
+INFO     [19:27:05 06-17-2018] Received message with type HELLO from 127.0.0.1:38792
+INFO     [19:27:05 06-17-2018] Received message with type SEND from 127.0.0.1:38792
+INFO     [19:27:05 06-17-2018] Received message with type BYE from 127.0.0.1:38792
+WARNING  [19:27:05 06-17-2018] Connection with 127.0.0.1:38792 terminated
+INFO     [19:29:11 06-17-2018] Serving request from  127.0.0.1:38796
+INFO     [19:29:11 06-17-2018] Received message with type HELLO from 127.0.0.1:38796
+INFO     [19:29:11 06-17-2018] Received message with type SEND from 127.0.0.1:38796
+INFO     [19:29:11 06-17-2018] Received message with type BYE from 127.0.0.1:38796
+WARNING  [19:29:11 06-17-2018] Connection with 127.0.0.1:38796 terminated
+INFO     [19:31:12 06-17-2018] Serving request from  127.0.0.1:38800
+INFO     [19:31:12 06-17-2018] Received message with type HELLO from 127.0.0.1:38800
+WARNING  [19:31:12 06-17-2018] Received wrong message type from 127.0.0.1:38800
+WARNING  [19:31:12 06-17-2018] Connection with 127.0.0.1:38800 terminated
+INFO     [19:31:14 06-17-2018] Serving request from  127.0.0.1:38802
+INFO     [19:31:14 06-17-2018] Received message with type HELLO from 127.0.0.1:38802
+INFO     [19:31:14 06-17-2018] Received message with type SEND from 127.0.0.1:38802
+INFO     [19:31:14 06-17-2018] Received message with type BYE from 127.0.0.1:38802
+WARNING  [19:31:14 06-17-2018] Connection with 127.0.0.1:38802 terminated
+INFO     [19:31:19 06-17-2018] Serving request from  127.0.0.1:38804
+INFO     [19:31:19 06-17-2018] Received message with type HELLO from 127.0.0.1:38804
+INFO     [19:31:19 06-17-2018] Received message with type SEND from 127.0.0.1:38804
+INFO     [19:31:19 06-17-2018] Received message with type BYE from 127.0.0.1:38804
+WARNING  [19:31:19 06-17-2018] Connection with 127.0.0.1:38804 terminated
+INFO     [19:32:01 06-17-2018] Serving request from  127.0.0.1:38806
+INFO     [19:32:01 06-17-2018] Received message with type HELLO from 127.0.0.1:38806
+INFO     [19:32:01 06-17-2018] Received message with type SEND from 127.0.0.1:38806
+INFO     [19:32:01 06-17-2018] Received message with type BYE from 127.0.0.1:38806
+WARNING  [19:32:01 06-17-2018] Connection with 127.0.0.1:38806 terminated
+INFO     [19:33:56 06-17-2018] Serving request from  127.0.0.1:38810
+INFO     [19:33:56 06-17-2018] Received message with type HELLO from 127.0.0.1:38810
+INFO     [19:33:56 06-17-2018] Received message with type SEND from 127.0.0.1:38810
+INFO     [19:33:56 06-17-2018] Received message with type BYE from 127.0.0.1:38810
+WARNING  [19:33:56 06-17-2018] Connection with 127.0.0.1:38810 terminated
+INFO     [19:33:58 06-17-2018] Serving request from  127.0.0.1:38812
+INFO     [19:33:58 06-17-2018] Received message with type HELLO from 127.0.0.1:38812
+INFO     [19:33:58 06-17-2018] Received message with type SEND from 127.0.0.1:38812
+INFO     [19:33:58 06-17-2018] Received message with type BYE from 127.0.0.1:38812
+WARNING  [19:33:58 06-17-2018] Connection with 127.0.0.1:38812 terminated
+INFO     [19:34:00 06-17-2018] Serving request from  127.0.0.1:38814
+INFO     [19:34:00 06-17-2018] Received message with type HELLO from 127.0.0.1:38814
+INFO     [19:34:00 06-17-2018] Received message with type SEND from 127.0.0.1:38814
+INFO     [19:34:00 06-17-2018] Received message with type BYE from 127.0.0.1:38814
+WARNING  [19:34:00 06-17-2018] Connection with 127.0.0.1:38814 terminated
+INFO     [19:34:15 06-17-2018] Serving request from  127.0.0.1:38816
+INFO     [19:34:15 06-17-2018] Received message with type HELLO from 127.0.0.1:38816
+INFO     [19:34:15 06-17-2018] Received message with type SEND from 127.0.0.1:38816
+WARNING  [19:34:15 06-17-2018] Cannot parse data  from 127.0.0.1:38816
+INFO     [19:34:15 06-17-2018] Received message with type BYE from 127.0.0.1:38816
+WARNING  [19:34:15 06-17-2018] Connection with 127.0.0.1:38816 terminated
+INFO     [19:34:23 06-17-2018] Serving request from  127.0.0.1:38818
+INFO     [19:34:23 06-17-2018] Received message with type HELLO from 127.0.0.1:38818
+INFO     [19:34:23 06-17-2018] Received message with type SEND from 127.0.0.1:38818
+INFO     [19:34:23 06-17-2018] Received message with type BYE from 127.0.0.1:38818
+WARNING  [19:34:23 06-17-2018] Connection with 127.0.0.1:38818 terminated
+INFO     [19:34:41 06-17-2018] Serving request from  127.0.0.1:38820
+INFO     [19:34:41 06-17-2018] Received message with type HELLO from 127.0.0.1:38820
+INFO     [19:34:41 06-17-2018] Received message with type SEND from 127.0.0.1:38820
+INFO     [19:34:41 06-17-2018] Received message with type BYE from 127.0.0.1:38820
+WARNING  [19:34:41 06-17-2018] Connection with 127.0.0.1:38820 terminated
+INFO     [19:36:09 06-17-2018] Serving request from  127.0.0.1:38824
+INFO     [19:36:09 06-17-2018] Received message with type HELLO from 127.0.0.1:38824
+INFO     [19:36:09 06-17-2018] Received message with type SEND from 127.0.0.1:38824
+INFO     [19:36:09 06-17-2018] Received message with type BYE from 127.0.0.1:38824
+WARNING  [19:36:09 06-17-2018] Connection with 127.0.0.1:38824 terminated
+INFO     [19:46:15 06-17-2018] Serving request from  127.0.0.1:38834
+INFO     [19:46:15 06-17-2018] Received message with type HELLO from 127.0.0.1:38834
+INFO     [19:46:15 06-17-2018] Received message with type SEND from 127.0.0.1:38834
+INFO     [19:46:15 06-17-2018] Received message with type BYE from 127.0.0.1:38834
+WARNING  [19:46:15 06-17-2018] Connection with 127.0.0.1:38834 terminated
+INFO     [19:46:16 06-17-2018] Serving request from  127.0.0.1:38836
+INFO     [19:46:16 06-17-2018] Received message with type HELLO from 127.0.0.1:38836
+INFO     [19:46:16 06-17-2018] Received message with type SEND from 127.0.0.1:38836
+INFO     [19:46:16 06-17-2018] Received message with type BYE from 127.0.0.1:38836
+WARNING  [19:46:16 06-17-2018] Connection with 127.0.0.1:38836 terminated
+INFO     [19:46:17 06-17-2018] Serving request from  127.0.0.1:38838
+INFO     [19:46:17 06-17-2018] Received message with type HELLO from 127.0.0.1:38838
+INFO     [19:46:17 06-17-2018] Received message with type SEND from 127.0.0.1:38838
+INFO     [19:46:18 06-17-2018] Received message with type BYE from 127.0.0.1:38838
+WARNING  [19:46:18 06-17-2018] Connection with 127.0.0.1:38838 terminated
+INFO     [19:46:21 06-17-2018] Serving request from  127.0.0.1:38840
+INFO     [19:46:21 06-17-2018] Received message with type HELLO from 127.0.0.1:38840
+INFO     [19:46:21 06-17-2018] Received message with type SEND from 127.0.0.1:38840
+INFO     [19:46:21 06-17-2018] Received message with type BYE from 127.0.0.1:38840
+WARNING  [19:46:21 06-17-2018] Connection with 127.0.0.1:38840 terminated
+INFO     [19:49:41 06-17-2018] Serving request from  127.0.0.1:38846
+INFO     [19:49:41 06-17-2018] Received message with type HELLO from 127.0.0.1:38846
+INFO     [19:49:41 06-17-2018] Received message with type SEND from 127.0.0.1:38846
+INFO     [19:49:41 06-17-2018] Received message with type BYE from 127.0.0.1:38846
+WARNING  [19:49:41 06-17-2018] Connection with 127.0.0.1:38846 terminated
+INFO     [19:49:42 06-17-2018] Serving request from  127.0.0.1:38848
+INFO     [19:49:42 06-17-2018] Received message with type HELLO from 127.0.0.1:38848
+INFO     [19:49:42 06-17-2018] Received message with type SEND from 127.0.0.1:38848
+INFO     [19:49:42 06-17-2018] Received message with type BYE from 127.0.0.1:38848
+WARNING  [19:49:42 06-17-2018] Connection with 127.0.0.1:38848 terminated
+INFO     [19:49:44 06-17-2018] Serving request from  127.0.0.1:38850
+INFO     [19:49:44 06-17-2018] Received message with type HELLO from 127.0.0.1:38850
+INFO     [19:49:44 06-17-2018] Received message with type SEND from 127.0.0.1:38850
+INFO     [19:49:44 06-17-2018] Received message with type BYE from 127.0.0.1:38850
+WARNING  [19:49:44 06-17-2018] Connection with 127.0.0.1:38850 terminated
+INFO     [19:49:48 06-17-2018] Serving request from  127.0.0.1:38852
+INFO     [19:49:48 06-17-2018] Received message with type HELLO from 127.0.0.1:38852
+INFO     [19:49:48 06-17-2018] Received message with type SEND from 127.0.0.1:38852
+INFO     [19:49:48 06-17-2018] Received message with type BYE from 127.0.0.1:38852
+WARNING  [19:49:48 06-17-2018] Connection with 127.0.0.1:38852 terminated
+INFO     [19:49:51 06-17-2018] Serving request from  127.0.0.1:38854
+INFO     [19:49:51 06-17-2018] Received message with type HELLO from 127.0.0.1:38854
+INFO     [19:49:51 06-17-2018] Received message with type SEND from 127.0.0.1:38854
+INFO     [19:49:51 06-17-2018] Received message with type BYE from 127.0.0.1:38854
+WARNING  [19:49:51 06-17-2018] Connection with 127.0.0.1:38854 terminated
+INFO     [19:49:57 06-17-2018] Serving request from  127.0.0.1:38856
+INFO     [19:49:57 06-17-2018] Received message with type HELLO from 127.0.0.1:38856
+INFO     [19:49:57 06-17-2018] Received message with type SEND from 127.0.0.1:38856
+INFO     [19:49:57 06-17-2018] Received message with type BYE from 127.0.0.1:38856
+WARNING  [19:49:57 06-17-2018] Connection with 127.0.0.1:38856 terminated
+INFO     [19:49:59 06-17-2018] Serving request from  127.0.0.1:38858
+INFO     [19:49:59 06-17-2018] Received message with type HELLO from 127.0.0.1:38858
+INFO     [19:49:59 06-17-2018] Received message with type SEND from 127.0.0.1:38858
+INFO     [19:49:59 06-17-2018] Received message with type BYE from 127.0.0.1:38858
+WARNING  [19:49:59 06-17-2018] Connection with 127.0.0.1:38858 terminated
+INFO     [19:50:00 06-17-2018] Serving request from  127.0.0.1:38860
+INFO     [19:50:00 06-17-2018] Received message with type HELLO from 127.0.0.1:38860
+INFO     [19:50:00 06-17-2018] Received message with type SEND from 127.0.0.1:38860
+INFO     [19:50:00 06-17-2018] Received message with type BYE from 127.0.0.1:38860
+WARNING  [19:50:00 06-17-2018] Connection with 127.0.0.1:38860 terminated
+INFO     [19:50:17 06-17-2018] Serving request from  127.0.0.1:38862
+INFO     [19:50:17 06-17-2018] Received message with type HELLO from 127.0.0.1:38862
+INFO     [19:50:17 06-17-2018] Received message with type SEND from 127.0.0.1:38862
+INFO     [19:50:17 06-17-2018] Received message with type BYE from 127.0.0.1:38862
+WARNING  [19:50:17 06-17-2018] Connection with 127.0.0.1:38862 terminated
+INFO     [19:50:20 06-17-2018] Serving request from  127.0.0.1:38864
+INFO     [19:50:20 06-17-2018] Received message with type HELLO from 127.0.0.1:38864
+INFO     [19:50:20 06-17-2018] Received message with type SEND from 127.0.0.1:38864
+INFO     [19:50:20 06-17-2018] Received message with type BYE from 127.0.0.1:38864
+WARNING  [19:50:20 06-17-2018] Connection with 127.0.0.1:38864 terminated
+INFO     [19:50:22 06-17-2018] Serving request from  127.0.0.1:38866
+INFO     [19:50:22 06-17-2018] Received message with type HELLO from 127.0.0.1:38866
+INFO     [19:50:22 06-17-2018] Received message with type SEND from 127.0.0.1:38866
+INFO     [19:50:22 06-17-2018] Received message with type BYE from 127.0.0.1:38866
+WARNING  [19:50:22 06-17-2018] Connection with 127.0.0.1:38866 terminated
+INFO     [19:50:24 06-17-2018] Serving request from  127.0.0.1:38868
+INFO     [19:50:24 06-17-2018] Received message with type HELLO from 127.0.0.1:38868
+INFO     [19:50:25 06-17-2018] Received message with type SEND from 127.0.0.1:38868
+INFO     [19:50:25 06-17-2018] Received message with type BYE from 127.0.0.1:38868
+WARNING  [19:50:25 06-17-2018] Connection with 127.0.0.1:38868 terminated
+INFO     [19:52:11 06-17-2018] Serving request from  127.0.0.1:38872
+INFO     [19:52:11 06-17-2018] Received message with type HELLO from 127.0.0.1:38872
+INFO     [19:52:11 06-17-2018] Received message with type SEND from 127.0.0.1:38872
+INFO     [19:52:11 06-17-2018] Received message with type BYE from 127.0.0.1:38872
+WARNING  [19:52:11 06-17-2018] Connection with 127.0.0.1:38872 terminated
+INFO     [19:52:13 06-17-2018] Serving request from  127.0.0.1:38874
+INFO     [19:52:13 06-17-2018] Received message with type HELLO from 127.0.0.1:38874
+INFO     [19:52:13 06-17-2018] Received message with type SEND from 127.0.0.1:38874
+INFO     [19:52:13 06-17-2018] Received message with type BYE from 127.0.0.1:38874
+WARNING  [19:52:13 06-17-2018] Connection with 127.0.0.1:38874 terminated
+INFO     [19:52:24 06-17-2018] Serving request from  127.0.0.1:38876
+INFO     [19:52:24 06-17-2018] Received message with type HELLO from 127.0.0.1:38876
+INFO     [19:52:24 06-17-2018] Received message with type SEND from 127.0.0.1:38876
+INFO     [19:52:25 06-17-2018] Received message with type BYE from 127.0.0.1:38876
+WARNING  [19:52:25 06-17-2018] Connection with 127.0.0.1:38876 terminated
+INFO     [19:52:43 06-17-2018] Serving request from  127.0.0.1:38878
+INFO     [19:52:43 06-17-2018] Received message with type HELLO from 127.0.0.1:38878
+INFO     [19:52:43 06-17-2018] Received message with type SEND from 127.0.0.1:38878
+INFO     [19:52:43 06-17-2018] Received message with type BYE from 127.0.0.1:38878
+WARNING  [19:52:43 06-17-2018] Connection with 127.0.0.1:38878 terminated
+INFO     [19:52:51 06-17-2018] Serving request from  127.0.0.1:38880
+INFO     [19:52:51 06-17-2018] Received message with type HELLO from 127.0.0.1:38880
+INFO     [19:52:51 06-17-2018] Received message with type SEND from 127.0.0.1:38880
+INFO     [19:52:51 06-17-2018] Received message with type BYE from 127.0.0.1:38880
+WARNING  [19:52:51 06-17-2018] Connection with 127.0.0.1:38880 terminated
+INFO     [19:52:54 06-17-2018] Serving request from  127.0.0.1:38882
+INFO     [19:52:54 06-17-2018] Received message with type HELLO from 127.0.0.1:38882
+INFO     [19:52:54 06-17-2018] Received message with type SEND from 127.0.0.1:38882
+INFO     [19:52:54 06-17-2018] Received message with type BYE from 127.0.0.1:38882
+WARNING  [19:52:54 06-17-2018] Connection with 127.0.0.1:38882 terminated
+INFO     [19:52:57 06-17-2018] Serving request from  127.0.0.1:38884
+INFO     [19:52:57 06-17-2018] Received message with type HELLO from 127.0.0.1:38884
+INFO     [19:52:57 06-17-2018] Received message with type SEND from 127.0.0.1:38884
+INFO     [19:52:57 06-17-2018] Received message with type BYE from 127.0.0.1:38884
+WARNING  [19:52:57 06-17-2018] Connection with 127.0.0.1:38884 terminated
+INFO     [19:52:59 06-17-2018] Serving request from  127.0.0.1:38886
+INFO     [19:52:59 06-17-2018] Received message with type HELLO from 127.0.0.1:38886
+INFO     [19:52:59 06-17-2018] Received message with type SEND from 127.0.0.1:38886
+INFO     [19:52:59 06-17-2018] Received message with type BYE from 127.0.0.1:38886
+WARNING  [19:52:59 06-17-2018] Connection with 127.0.0.1:38886 terminated
+INFO     [19:53:07 06-17-2018] Serving request from  127.0.0.1:38888
+INFO     [19:53:07 06-17-2018] Received message with type HELLO from 127.0.0.1:38888
+INFO     [19:53:07 06-17-2018] Received message with type SEND from 127.0.0.1:38888
+INFO     [19:53:08 06-17-2018] Received message with type BYE from 127.0.0.1:38888
+WARNING  [19:53:08 06-17-2018] Connection with 127.0.0.1:38888 terminated
+INFO     [19:53:10 06-17-2018] Serving request from  127.0.0.1:38890
+INFO     [19:53:10 06-17-2018] Received message with type HELLO from 127.0.0.1:38890
+INFO     [19:53:10 06-17-2018] Received message with type SEND from 127.0.0.1:38890
+INFO     [19:53:10 06-17-2018] Received message with type BYE from 127.0.0.1:38890
+WARNING  [19:53:10 06-17-2018] Connection with 127.0.0.1:38890 terminated
+INFO     [19:53:18 06-17-2018] Serving request from  127.0.0.1:38892
+INFO     [19:53:18 06-17-2018] Received message with type HELLO from 127.0.0.1:38892
+INFO     [19:53:18 06-17-2018] Received message with type SEND from 127.0.0.1:38892
+INFO     [19:53:18 06-17-2018] Received message with type BYE from 127.0.0.1:38892
+WARNING  [19:53:18 06-17-2018] Connection with 127.0.0.1:38892 terminated
+INFO     [19:53:20 06-17-2018] Serving request from  127.0.0.1:38894
+INFO     [19:53:20 06-17-2018] Received message with type HELLO from 127.0.0.1:38894
+INFO     [19:53:20 06-17-2018] Received message with type SEND from 127.0.0.1:38894
+INFO     [19:53:20 06-17-2018] Received message with type BYE from 127.0.0.1:38894
+WARNING  [19:53:20 06-17-2018] Connection with 127.0.0.1:38894 terminated
+INFO     [19:53:20 06-17-2018] Serving request from  127.0.0.1:38896
+INFO     [19:53:20 06-17-2018] Received message with type HELLO from 127.0.0.1:38896
+INFO     [19:53:20 06-17-2018] Received message with type SEND from 127.0.0.1:38896
+INFO     [19:53:20 06-17-2018] Received message with type BYE from 127.0.0.1:38896
+WARNING  [19:53:20 06-17-2018] Connection with 127.0.0.1:38896 terminated
+INFO     [19:53:24 06-17-2018] Serving request from  127.0.0.1:38898
+INFO     [19:53:24 06-17-2018] Received message with type HELLO from 127.0.0.1:38898
+INFO     [19:53:24 06-17-2018] Received message with type SEND from 127.0.0.1:38898
+INFO     [19:53:24 06-17-2018] Received message with type BYE from 127.0.0.1:38898
+WARNING  [19:53:24 06-17-2018] Connection with 127.0.0.1:38898 terminated
+INFO     [19:54:52 06-17-2018] Serving request from  127.0.0.1:38902
+INFO     [19:54:52 06-17-2018] Received message with type HELLO from 127.0.0.1:38902
+INFO     [19:54:52 06-17-2018] Received message with type SEND from 127.0.0.1:38902
+INFO     [19:54:52 06-17-2018] Received message with type BYE from 127.0.0.1:38902
+WARNING  [19:54:52 06-17-2018] Connection with 127.0.0.1:38902 terminated
+INFO     [19:54:52 06-17-2018] Serving request from  127.0.0.1:38904
+INFO     [19:54:52 06-17-2018] Received message with type HELLO from 127.0.0.1:38904
+INFO     [19:54:52 06-17-2018] Received message with type SEND from 127.0.0.1:38904
+INFO     [19:54:52 06-17-2018] Received message with type BYE from 127.0.0.1:38904
+WARNING  [19:54:52 06-17-2018] Connection with 127.0.0.1:38904 terminated
+INFO     [19:54:56 06-17-2018] Serving request from  127.0.0.1:38906
+INFO     [19:54:56 06-17-2018] Received message with type HELLO from 127.0.0.1:38906
+INFO     [19:54:56 06-17-2018] Received message with type SEND from 127.0.0.1:38906
+INFO     [19:54:56 06-17-2018] Received message with type BYE from 127.0.0.1:38906
+WARNING  [19:54:56 06-17-2018] Connection with 127.0.0.1:38906 terminated
+INFO     [19:54:59 06-17-2018] Serving request from  127.0.0.1:38908
+INFO     [19:54:59 06-17-2018] Received message with type HELLO from 127.0.0.1:38908
+INFO     [19:54:59 06-17-2018] Received message with type SEND from 127.0.0.1:38908
+INFO     [19:54:59 06-17-2018] Received message with type BYE from 127.0.0.1:38908
+WARNING  [19:54:59 06-17-2018] Connection with 127.0.0.1:38908 terminated
+INFO     [19:54:59 06-17-2018] Serving request from  127.0.0.1:38910
+INFO     [19:54:59 06-17-2018] Received message with type HELLO from 127.0.0.1:38910
+INFO     [19:54:59 06-17-2018] Received message with type SEND from 127.0.0.1:38910
+INFO     [19:55:00 06-17-2018] Received message with type BYE from 127.0.0.1:38910
+WARNING  [19:55:00 06-17-2018] Connection with 127.0.0.1:38910 terminated
+INFO     [19:55:02 06-17-2018] Serving request from  127.0.0.1:38912
+INFO     [19:55:02 06-17-2018] Received message with type HELLO from 127.0.0.1:38912
+INFO     [19:55:02 06-17-2018] Received message with type SEND from 127.0.0.1:38912
+INFO     [19:55:02 06-17-2018] Received message with type BYE from 127.0.0.1:38912
+WARNING  [19:55:02 06-17-2018] Connection with 127.0.0.1:38912 terminated
+INFO     [19:55:06 06-17-2018] Serving request from  127.0.0.1:38914
+INFO     [19:55:06 06-17-2018] Received message with type HELLO from 127.0.0.1:38914
+INFO     [19:55:06 06-17-2018] Received message with type SEND from 127.0.0.1:38914
+INFO     [19:55:06 06-17-2018] Received message with type BYE from 127.0.0.1:38914
+WARNING  [19:55:06 06-17-2018] Connection with 127.0.0.1:38914 terminated
+INFO     [19:55:08 06-17-2018] Serving request from  127.0.0.1:38916
+INFO     [19:55:08 06-17-2018] Received message with type HELLO from 127.0.0.1:38916
+INFO     [19:55:08 06-17-2018] Received message with type SEND from 127.0.0.1:38916
+INFO     [19:55:08 06-17-2018] Received message with type BYE from 127.0.0.1:38916
+WARNING  [19:55:08 06-17-2018] Connection with 127.0.0.1:38916 terminated
+INFO     [19:55:10 06-17-2018] Serving request from  127.0.0.1:38918
+INFO     [19:55:10 06-17-2018] Received message with type HELLO from 127.0.0.1:38918
+INFO     [19:55:10 06-17-2018] Received message with type SEND from 127.0.0.1:38918
+INFO     [19:55:10 06-17-2018] Received message with type BYE from 127.0.0.1:38918
+WARNING  [19:55:10 06-17-2018] Connection with 127.0.0.1:38918 terminated
+INFO     [19:55:14 06-17-2018] Shutting down...

